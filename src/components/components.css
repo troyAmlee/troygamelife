@@ -1,0 +1,128 @@
+body { 
+    position: relative;
+    background-color: #101c22;
+  }
+    
+  .box {
+    display: inline-block;       
+    border: 0.3px solid rgb(27, 27, 27);
+    width: 10px;
+    height: 10px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    background-color: black;
+    }
+
+  .btn {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 16px;
+    border: 1px solid red;
+    outline: none;
+  }
+
+  .btn:active {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    height: 40px;
+    width: 100px;
+    border-radius: 16px;
+    border: 1px solid red;
+    
+  }
+  
+  .off {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .on {
+    background-color: rgb(30, 255, 0);
+  }
+    
+  .box:hover { 
+    background: #5856c2;
+  }
+  
+  .center {
+    margin: auto;
+    display: flex;
+    margin-top: 10px;
+    width: 940px;
+    height: 50px;
+    justify-content:space-between;
+    
+  }
+
+  #size-menu {
+    height: 40px;
+    width: 100px;
+    
+    
+    
+  }
+
+  .buttontoolbar {
+    width: 940px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .dropdown {
+    height: 50px;
+    width: 100px;
+    display: flex;
+  }
+  
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 150px;
+    line-height: 0;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+    
+  h1, h2, h3, h4 {
+    color: white;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    margin-top: 10px;
+    font-family: fantasy;
+  }
+
+  .rules {
+    display: flex;
+    flex-direction: column;
+    width: 940px;
+  }
+
+  .rules-header {
+    text-align: left;
+    margin-left: 20px;
+  }
+
+  .rules-list {
+    color: white;
+  }
+
+  .bio {
+    color: white;
+    margin-left: 20px;
+  }
+
+  .john {
+    width: 250px;
+    height: 162.5px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-radius: 40px;
+  }
+  
+  h4 {
+    margin-top: 0px;
+  }
+
+  
