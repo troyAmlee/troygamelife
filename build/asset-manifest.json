@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/static/css/main.f0faac1b.chunk.css",
-    "main.js": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/static/js/main.aa7d6180.chunk.js",
-    "main.js.map": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/static/js/main.aa7d6180.chunk.js.map",
-    "runtime-main.js": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/static/js/runtime-main.6212dac1.js",
-    "runtime-main.js.map": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/static/js/runtime-main.6212dac1.js.map",
-    "static/js/2.88999346.chunk.js": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/static/js/2.88999346.chunk.js",
-    "static/js/2.88999346.chunk.js.map": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/static/js/2.88999346.chunk.js.map",
-    "index.html": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/index.html",
-    "precache-manifest.b6b67254b06e9f36b0cb3661680a1536.js": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/precache-manifest.b6b67254b06e9f36b0cb3661680a1536.js",
-    "service-worker.js": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/service-worker.js",
-    "static/css/main.f0faac1b.chunk.css.map": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/static/css/main.f0faac1b.chunk.css.map",
-    "static/js/2.88999346.chunk.js.LICENSE.txt": "/Troys_Conways_Game_Of_Life_CSBuildWeek1/static/js/2.88999346.chunk.js.LICENSE.txt"
+    "main.css": "/troygamelife/static/css/main.f0faac1b.chunk.css",
+    "main.js": "/troygamelife/static/js/main.fa3f4c6b.chunk.js",
+    "main.js.map": "/troygamelife/static/js/main.fa3f4c6b.chunk.js.map",
+    "runtime-main.js": "/troygamelife/static/js/runtime-main.fd23e881.js",
+    "runtime-main.js.map": "/troygamelife/static/js/runtime-main.fd23e881.js.map",
+    "static/js/2.aaf20baa.chunk.js": "/troygamelife/static/js/2.aaf20baa.chunk.js",
+    "static/js/2.aaf20baa.chunk.js.map": "/troygamelife/static/js/2.aaf20baa.chunk.js.map",
+    "index.html": "/troygamelife/index.html",
+    "precache-manifest.128e25f7f779e59dc06aef53c185a0bb.js": "/troygamelife/precache-manifest.128e25f7f779e59dc06aef53c185a0bb.js",
+    "service-worker.js": "/troygamelife/service-worker.js",
+    "static/css/main.f0faac1b.chunk.css.map": "/troygamelife/static/css/main.f0faac1b.chunk.css.map",
+    "static/js/2.aaf20baa.chunk.js.LICENSE.txt": "/troygamelife/static/js/2.aaf20baa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6212dac1.js",
-    "static/js/2.88999346.chunk.js",
+    "static/js/runtime-main.fd23e881.js",
+    "static/js/2.aaf20baa.chunk.js",
     "static/css/main.f0faac1b.chunk.css",
-    "static/js/main.aa7d6180.chunk.js"
+    "static/js/main.fa3f4c6b.chunk.js"
   ]
 }
